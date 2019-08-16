@@ -1,0 +1,48 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+p  font-family: 'Overlock SC', cursive;
+}
+title {
+color: white;
+font-family: 'Redressed', cursive;
+}
+
+/* PAGE HEADER
+------------------------------------------ */
+header {
+  background color: 000000;
+  font-family: 'Overlock SC', cursive;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+body { /* longshand */
+  background-image: url("project/images/moon.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+h1, h2 {
+  margin: 0; /* removes default space */
+}
+
+/* LOVES - love, love, love
+------------------------------------------ */
+. loves  {
+  background color: #000000;
+}
+header,
+section,
+footer {
+  padding: 100px 150px;
+}
+.waves 2.png border-radius: 50%;
+
+{img project\images\waves 2.png>
+  width: 100% ;
+}
